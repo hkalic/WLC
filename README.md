@@ -15,3 +15,4 @@ Features:
 - fix stupid install procedure
 - add category editing
 - check the bug with timer
+- refactor all to JavaScript or something....
