@@ -1,0 +1,8 @@
+[ODBC]
+DRIVER=SQL Server
+UID=zdravko
+Network=DBMSLPCN
+DATABASE=WLC
+WSID=HKALIC
+APP=Microsoft Data Access Components
+SERVER=hkalic

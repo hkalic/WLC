@@ -1,0 +1,17 @@
+echo ***********************************************
+echo **** ovo je samo primjer postavljana mreže ****
+echo ***********************************************
+
+Server:
+DNS: vargapc
+IP: 192.168.1.10
+SUBNET: 255.255.255.0
+GW: 192.168.1.1
+
+SQL Server name: vargapc
+SQL Authetication: user: varga , password: (blank) - nema password
+
+Klienti:
+- treba ih staviti na istu mrežu
+- pokreniti client instalaciju sa CD-a (USB sticka) - bez instalacije baze
+- podesiti DSN fajl da pokazuje na server (kao što piše u uputama - Instalacija.doc)

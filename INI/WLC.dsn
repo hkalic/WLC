@@ -1,0 +1,7 @@
+[ODBC]
+DRIVER=SQL Server
+UID=zdravko
+DATABASE=WLC
+WSID=HKALIC
+APP=Microsoft Data Access Components
+SERVER=VARGAPC

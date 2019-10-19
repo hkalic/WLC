@@ -1,0 +1,169 @@
+::Startan program - 10.11.2008 23:09:39
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=10, NazivKategorije='48', SinclairKoeficijent=3.63475760876506 WHERE SifraDizaca=192 AND NatjecanjeID=39
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+::Startan program - 10.11.2008 23:14:57
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+::Startan program - 10.11.2008 23:19:09
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=10, NazivKategorije='48', SinclairKoeficijent=3.63475760876506 WHERE SifraDizaca=192 AND NatjecanjeID=39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=10, NazivKategorije='48', SinclairKoeficijent=3.63475760876506 WHERE SifraDizaca=192 AND NatjecanjeID=39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=10, NazivKategorije='48', SinclairKoeficijent=2.01088213013613 WHERE SifraDizaca=192 AND NatjecanjeID=39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+::Startan program - 10.11.2008 23:25:42
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=11, NazivKategorije='53', SinclairKoeficijent=1.40668648299751 WHERE SifraDizaca=184 AND NatjecanjeID=39
+::Startan program - 10.11.2008 23:30:50
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=10, NazivKategorije='48', SinclairKoeficijent=2.14168706156033,  TjelesnaTezina=34 WHERE SifraDizaca=192 AND NatjecanjeID=39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=10, NazivKategorije='48', SinclairKoeficijent=1.52074562840099,  TjelesnaTezina=45,8 WHERE SifraDizaca=192 AND NatjecanjeID=39
+GREŠKA: UPDATE Vaganje SET SifraKategorije=10, NazivKategorije='48', SinclairKoeficijent=1.52074562840099,  TjelesnaTezina=45,8 WHERE SifraDizaca=192 AND NatjecanjeID=39
+::Startan program - 10.11.2008 23:33:23
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=11, NazivKategorije='53', SinclairKoeficijent=1.40668648299751,  TjelesnaTezina=49.8 WHERE SifraDizaca=184 AND NatjecanjeID=39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='I' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=2, IzbacajIliTrzaj='I' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=3, IzbacajIliTrzaj='I' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='I' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=2, IzbacajIliTrzaj='I' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='I' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+::Startan program - 11.11.2008 0:12:45
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+::Startan program - 11.11.2008 0:14:49
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+::Startan program - 11.11.2008 0:19:57
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+UPDATE Vaganje SET SifraKategorije=11, NazivKategorije='53', SinclairKoeficijent=1.40668648299751,  TjelesnaTezina=49.8,  PocetnaTTrzaj=50,  PocetnaTIzbacaj=60,  Ekipno='E',  Seniorsko='',  Juniorsko='',  Prioritet=48,  IzvanKonkurencije='N',  Grupa=1 WHERE SifraDizaca=184 AND NatjecanjeID=39
+::Startan program - 13.11.2008 19:34:32
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+::Startan program - 13.11.2008 21:20:50
+::Startan program - 13.11.2008 21:40:55
+::Startan program - 13.11.2008 21:58:52
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 39
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=39
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=39
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 39 AND (IPokusaj < 4 OR TPokusaj < 4)
+::Startan program - 13.11.2008 22:00:03
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
+SELECT NatjecanjeDetailID FROM NatjecanjeDetail WHERE NatjecanjeID = 43
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=43
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=43
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 43 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=43
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=43
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 43 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=43
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=43
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 43 AND (IPokusaj < 4 OR TPokusaj < 4)
+SELECT * FROM PomocniStatus WHERE NatjecanjeID=43
+UPDATE PomocniStatus SET Grupa=1, IzbacajIliTrzaj='T' WHERE NatjecanjeID=43
+SELECT SifraDizaca FROM NatjecanjeDetail WHERE NatjecanjeID = 43 AND (IPokusaj < 4 OR TPokusaj < 4)
+::Startan program - 13.11.2008 22:09:23
+SELECT TOP 1 NatjecanjeID, NazivNatjecanja, StatusNatjecanja FROM Natjecanja WHERE StatusNatjecanja <> 'Z' ORDER BY DatumNatjecanja DESC
