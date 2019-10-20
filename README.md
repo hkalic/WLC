@@ -16,3 +16,10 @@ Features:
 - add category editing
 - check the bug with timer
 - refactor all to JavaScript or something....
+
+
+
+PS: 
+- this is old project made with Delphi
+- it won't work without BDE installed
+- don't ask for VCLs
